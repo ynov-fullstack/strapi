@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_builder_text_editors",
+  "info": {
+    "displayName": "text_editor",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "wysiwyg": {
+      "type": "richtext"
+    },
+    "with_background": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_builder_text_emphases",
+  "info": {
+    "displayName": "text_emphasis"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    }
+  }
+}

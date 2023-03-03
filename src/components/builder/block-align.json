@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_builder_block_aligns",
+  "info": {
+    "displayName": "block_align"
+  },
+  "options": {},
+  "attributes": {
+    "editor": {
+      "type": "richtext"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
